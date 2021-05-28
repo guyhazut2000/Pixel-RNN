@@ -1,2 +1,2 @@
 # Pixel-RNN
-in progress
+Keras implementation of Pixel-CNN.
